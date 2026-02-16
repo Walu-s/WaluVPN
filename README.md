@@ -1,2 +1,1 @@
-# WaluVPN
-Prototype VPN based on SOCKS5
+# В стадии разработки 
